@@ -29,6 +29,7 @@ To setup Sublime Text to look like what is seen in the above image do the follow
 - [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine.
 - [Alignment](https://packagecontrol.io/packages/Alignment) - Easy alignment of multiple selections and multi-line selections
 - [AlignTab](https://packagecontrol.io/packages/AlignTab) - An alignment plugin using regular expression.
+- [auto-save](https://packagecontrol.io/packages/auto-save) - Automatically saves the current file after every modification.
 
 ## Language Specific Packages
 
@@ -37,6 +38,7 @@ To setup Sublime Text to look like what is seen in the above image do the follow
 #### Essentials
 
 - [Emmet](https://sublime.wbond.net/packages/Emmet) - an essential toolkit of web developers working with HTML/CSS 
+- [Bracket​Highlighter](https://packagecontrol.io/packages/BracketHighlighter) - Bracket and tag highlighter for Sublime Text.
 - [ColorHighlighter](https://packagecontrol.io/packages/Color%20Highlighter) - ColorHighlighter - is a plugin for the Sublime text 2 and 3, which underlays selected hexadecimal colorcodes (works with SASS).
 - [HTML5](https://sublime.wbond.net/packages/HTML5) - HTML5 snippets/syntax
 - [HTML5 Boilerplate](https://sublime.wbond.net/packages/HTML%20Boilerplate) - snippet to generate HTML5 Boilerplate
