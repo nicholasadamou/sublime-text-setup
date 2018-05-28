@@ -30,6 +30,7 @@ To setup Sublime Text to look like what is seen in the above image do the follow
 - [Alignment](https://packagecontrol.io/packages/Alignment) - Easy alignment of multiple selections and multi-line selections
 - [AlignTab](https://packagecontrol.io/packages/AlignTab) - An alignment plugin using regular expression.
 - [auto-save](https://packagecontrol.io/packages/auto-save) - Automatically saves the current file after every modification.
+- [DashDocs](https://github.com/farcaller/DashDoc) - DashDoc provides integration of Dash (on OS X), Zeal (on Linux) and Zeal or Velocity (on Windows) into Sublime Text.
 
 ## Language Specific Packages
 
