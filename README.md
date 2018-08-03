@@ -15,11 +15,11 @@ To setup Sublime Text to look like what is seen in the above image do the follow
 
 ## Getting Started
 
-- [Sublime Text](http://www.sublimetext.com/) - the best text editor for me. I've been using it for years. 
+- [Sublime Text](http://www.sublimetext.com/) - the best text editor for me. I've been using it for years.
 - [Package Control](https://sublime.wbond.net/installation) - essential package manager for Sublime Text.
 - [Unofficial Documentation](http://docs.sublimetext.info/en/latest/index.html)
 
-## Tools (Better Sublime Text) 
+## Tools (Better Sublime Text)
 
 - [Advanced New File](https://github.com/skuroda/Sublime-AdvancedNewFile) - This plugin allows for faster file creation within a project.
 - [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) - Provides the basics operations of files and folders : new file/folder, edit, open/run, reveal, find in selected/parent/project, cut, copy, paste, rename, move, delete.
@@ -38,7 +38,7 @@ To setup Sublime Text to look like what is seen in the above image do the follow
 
 #### Essentials
 
-- [Emmet](https://sublime.wbond.net/packages/Emmet) - an essential toolkit of web developers working with HTML/CSS 
+- [Emmet](https://sublime.wbond.net/packages/Emmet) - an essential toolkit of web developers working with HTML/CSS
 - [Bracket​Highlighter](https://packagecontrol.io/packages/BracketHighlighter) - Bracket and tag highlighter for Sublime Text.
 - [ColorHighlighter](https://packagecontrol.io/packages/Color%20Highlighter) - ColorHighlighter - is a plugin for the Sublime text 2 and 3, which underlays selected hexadecimal colorcodes (works with SASS).
 - [HTML5](https://sublime.wbond.net/packages/HTML5) - HTML5 snippets/syntax
@@ -111,6 +111,12 @@ Full list of SublimeLinters, right [here](https://sublime.wbond.net/browse/label
 - [SublimeLinter-csslint](https://sublime.wbond.net/packages/SublimeLinter-csslint) - CSS Linter
 - [SublimeLinter-json](https://sublime.wbond.net/packages/SublimeLinter-json) - JSON Linter
 
+### VimL
+
+#### Essentials
+
+- [VimL](https://packagecontrol.io/packages/VimL) - VimL language support for Sublime Text 3.
+
 ## Version Control
 
 - [Git](https://sublime.wbond.net/packages/Git) - git integration into Sublime Text
@@ -119,7 +125,7 @@ Full list of SublimeLinters, right [here](https://sublime.wbond.net/browse/label
 - [GitSavvy](https://packagecontrol.io/packages/GitSavvy) - Full git and GitHub integration with Sublime Text 3.
 - [Github Tools](https://sublime.wbond.net/packages/Github%20Tools) - tools to work with Github in Sublime Text
 
-## UI 
+## UI
 
 ### Fonts
 
@@ -146,4 +152,4 @@ Full list of SublimeLinters, right [here](https://sublime.wbond.net/browse/label
 
 ## Learning Resources
 
-- [Sublime Text Tutorials by Scotch.io](https://scotch.io/tag/sublime-text) - Here you can find a lot of stuff, videos, tutorials, plugins, themes and others about Sublime Text. 
+- [Sublime Text Tutorials by Scotch.io](https://scotch.io/tag/sublime-text) - Here you can find a lot of stuff, videos, tutorials, plugins, themes and others about Sublime Text.
